@@ -1,0 +1,43 @@
+@media only screen and (min-width : 320px) and (max-width:480px) {
+    .reach-logo {
+        display: inline-block;
+    }    
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) and (max-width: 768px) {
+ .reach-logo {
+        display: inline-block;
+    }    
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) and (max-width: 992px){
+ .reach-logo {
+        display: inline-block;
+    }    
+
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) and (max-width:1200px){
+ .reach-logo {
+        display: inline-block;
+    }    
+
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px){
+ .reach-logo {
+        display: inline-block;
+    }    
+
+    
+}
+
+
